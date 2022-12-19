@@ -1,11 +1,2 @@
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>sa</title>
-</head>
-<body>
-    <h1>APLIKASI PEMINJAMAN BARANG PERUSAHAN</h1>
-</body>
-</html>
+<h1>APLIKASI PEMINJAMAN BARANG PERUSAHAN</h1>
+    <p>Aplikasi ini di buat untuk sebuah perusahaan yang di peruntukan bagi bagian penyimpanan barang. Sehingga Untuk Karyawan yang ingin meminjam barang milik perusahaan harus menggunakan aplikasi ini agar memudahkan pendataan peminjaman barang</p>
