@@ -3,3 +3,6 @@
  <br>
  <hr>
  <h3>Dibuat Oleh :</h3>
+ <h4>Nama   : Aldi Tulus P<h4>
+ <h4>NIM    : 2200018097<h4>
+ <h4>Kelas  : B<h4>
