@@ -10,7 +10,7 @@
 
 <h2 style="color: red;">NOTE : JALANKAN PROGRAM MENGGUNAKAN EMU8086 🙏</h2>
 
-<h2>Link Persentasi Youtube : </h2>
-<h2>
+<h3>Link Persentasi Youtube : </h3>
+<h3>
    <a href="https://www.youtube.com/watch?v=Wbl8trrN0L0">Klik Di Sini</a>
-</h2>
+</h3>
